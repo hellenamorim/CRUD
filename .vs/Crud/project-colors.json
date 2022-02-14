@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16a3deef-42d3-4ece-b428-cb3d082e167a": {
+      "ProjectGuid": "16a3deef-42d3-4ece-b428-cb3d082e167a",
+      "DisplayName": "Crud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
